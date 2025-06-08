@@ -42,5 +42,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 
-- **Data source:** [Kaggle]
+- **Data source:** [IPDR]
 - **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
