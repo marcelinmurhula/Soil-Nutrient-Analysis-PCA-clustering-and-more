@@ -4,7 +4,7 @@ Copier le code
 
 ## Overview
 
-This project involves analyzing soil nutrient data to assess soil quality and efficiency across various districts. The main objectives include:
+This project involves analyzing soil nutrient data to assess soil quality and efficiency across various districts in the south-kivu province, in DRC. The main objectives include:
 
 - **Exploratory Data Analysis (EDA):** Understand the distribution and relationships between soil nutrients such as pH, organic matter, nitrogen, phosphorus, and potassium.
 - **Principal Component Analysis (PCA):** Reduce the dimensionality of the dataset and visualize the principal components.
